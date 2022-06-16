@@ -1,2 +1,2 @@
-# react-router-practice
+# react-practice
 Created with CodeSandbox
